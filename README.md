@@ -19,6 +19,7 @@ In short I am obsessed with idea of solving problems using software.
 - 🏅 I am the Tech Member of CodeChef Student Chapter NIT Trichy.
 - 🎙️ I make Coding related videos on YouTube and love teaching amazing tricks.
 - ⚡ Ask me about anything. If I didn't know maybe I will learn something new!
+- 📚 wrote a book regarding ' crack maang companies' and posted it on LinkedIn for free [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=Book)](https://www.linkedin.com/posts/daaris-ameen-430281214_crack-maang-companies-dsa-questions-c-activity-6975715129329946625-s0yy?utm_source=share&utm_medium=member_ios)
 
 ```
 while( !succeed() )
