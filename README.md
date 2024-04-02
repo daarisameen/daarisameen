@@ -33,7 +33,7 @@ I'm a fast learner and enjoy the challenges encountered along the way.
 <br>
 
 - 🏅 I was a Tech Member of CodeChef Student Chapter NIT Trichy (club closed).
-- 🎙️ I make Computer Science related videos on YouTube (just a newbie to YT world).
+- 🎙️ My Interested topics are development (irrespective of Web/App/Games) & ML/DL.
 - ⚡ Ask me about anything. If I didn't know maybe I will learn something new!
 - 📚 wrote a book regarding 'crack maang companies' and posted it on Amazon Kindle e-book store: [Amazon](https://www.amazon.com/DSA-questions-crack-dream-companies/dp/B0BF2Q742J/ref=sr_1_fkmr1_1?keywords=DSA+questions+to+crack+maang&qid=1668105028&sr=8-1-fkmr1)
 
